@@ -11,6 +11,8 @@ Own pieces in opponent's traps get their strength reduced to *zero*. Only the ra
 This variant specialty is an energy-system: Attacking yields you energy and repeating a position consumes it. You can't repeat a position if you have no energy.
 If a player has no legal moves left, they lose the game.
 
+(The [zip-included] file "dsq_engine" is the ready compiled GUI-app with the current engine included, using -O3 optimization and "fat LTO" (link-time optimizer), with symbols stripped to minimize filesize. Tested on Linux Mint 21.3)
+
 Have fun!  :)
 
 [ More info in Discord: https://discord.gg/257jDH3nmn ]
