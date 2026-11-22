@@ -15,4 +15,6 @@ If a player has no legal moves left, they lose the game.
 
 Have fun!  :)
 
+![EP-DouShouQi in action](ep-dsq.png)
+
 [ More info in Discord: https://discord.gg/257jDH3nmn ]
