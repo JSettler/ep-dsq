@@ -21,5 +21,13 @@ Have fun!  :)
 UPDATE:
 IronMan mode added. Start app with argument "-- ironman [depth]". Depth must be a number >= 12. The app automatically stores statistics in a datafile, in "$HOME/.local/share/dsq_engine/", where also the savefile is.
 
+UPDATE2:
+Classic SuperKo mode and accompanying IronMan mode added.
+
+Start app with this string (using cargo, in source-mode) "cargo run --dist -- help"  OR  (if using the binary) "dsq_engine -h", to get a list of all available parameters.
+In both IronMan modes, saving a game is not possible.
+
+Update3:
+Unified & streamlined the highscore table. Maximum 50 entries in whole. Max.5 entries per depth.
 
 [ More info in Discord: https://discord.gg/257jDH3nmn ]
