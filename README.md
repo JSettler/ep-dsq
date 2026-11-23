@@ -17,4 +17,9 @@ Have fun!  :)
 
 ![EP-DouShouQi in action](ep-dsq.png)
 
+--
+UPDATE:
+IronMan mode added. Start app with argument "-- ironman <depth>". Depth must be >= 12. The app automatically stores statistics in a datafile, in "$HOME/.local/share/dsq_engine/", where also the savefile is.
+--
+
 [ More info in Discord: https://discord.gg/257jDH3nmn ]
