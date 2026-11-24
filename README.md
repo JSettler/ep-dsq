@@ -33,6 +33,9 @@ Unified & streamlined the highscore table. Maximum 50 entries in whole. Max.5 en
 Update4:
 Improved the eval (added new term about piece-cornering)
 
+Update 5:
+added a 'show thinking'-mode and a stop-button (both greyed out in ironman-mode)
+
 The new IronMan mode in action:
 ![nonEP-DouShouQi](non-EP-mode_IronMan_game.png)
 
