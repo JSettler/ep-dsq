@@ -39,4 +39,7 @@ Improved the eval (added new term about piece-cornering)
 Update 5 (r7):
 added a 'show thinking'-mode and a stop-button (both greyed out in ironman-mode)
 
+Update 6 (r8):
+added a 5th piece-set: chinese (with tiny numbers as help)
+
 [ More info in Discord: https://discord.gg/257jDH3nmn ]
