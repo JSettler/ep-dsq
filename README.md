@@ -42,4 +42,10 @@ added a 'show thinking'-mode and a stop-button (both greyed out in ironman-mode)
 Update 6 (r8):
 added a 5th piece-set: chinese (with tiny numbers as help)
 
+Update 7 (r9):
+added a time-per-move slider (for the engine)
+added function to save player's name in HoF (if eligible)
+added new start-parameter "import", to allow players to load previous game-logs (human-readable textfiles, containing copied movelists), this now allows to analyze previous ironman-games
+updated the help-text (invoked with "dsq_engine -h")
+
 [ More info in Discord: https://discord.gg/257jDH3nmn ]
