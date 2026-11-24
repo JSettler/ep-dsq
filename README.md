@@ -30,13 +30,13 @@ In both IronMan modes, saving a game is not possible.
 The new IronMan mode in action:
 ![nonEP-DouShouQi](non-EP-mode_IronMan_game.png)
 
-Update3:
+Update 3 (r5):
 Unified & streamlined the highscore table. Maximum 50 entries in whole. Max.5 entries per depth.
 
-Update4:
+Update 4 (r6):
 Improved the eval (added new term about piece-cornering)
 
-Update 5:
+Update 5 (r7):
 added a 'show thinking'-mode and a stop-button (both greyed out in ironman-mode)
 
 [ More info in Discord: https://discord.gg/257jDH3nmn ]
