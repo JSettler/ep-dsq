@@ -27,6 +27,9 @@ Classic SuperKo mode and accompanying IronMan mode added.
 Start app with this string (using cargo, in source-mode) "cargo run --dist -- help"  OR  (if using the binary) "dsq_engine -h", to get a list of all available parameters.
 In both IronMan modes, saving a game is not possible.
 
+The new IronMan mode in action:
+![nonEP-DouShouQi](non-EP-mode_IronMan_game.png)
+
 Update3:
 Unified & streamlined the highscore table. Maximum 50 entries in whole. Max.5 entries per depth.
 
@@ -35,8 +38,5 @@ Improved the eval (added new term about piece-cornering)
 
 Update 5:
 added a 'show thinking'-mode and a stop-button (both greyed out in ironman-mode)
-
-The new IronMan mode in action:
-![nonEP-DouShouQi](non-EP-mode_IronMan_game.png)
 
 [ More info in Discord: https://discord.gg/257jDH3nmn ]
