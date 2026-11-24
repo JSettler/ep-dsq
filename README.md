@@ -30,6 +30,9 @@ In both IronMan modes, saving a game is not possible.
 Update3:
 Unified & streamlined the highscore table. Maximum 50 entries in whole. Max.5 entries per depth.
 
+Update4:
+Improved the eval (added new term about piece-cornering)
+
 The new IronMan mode in action:
 ![nonEP-DouShouQi](non-EP-mode_IronMan_game.png)
 
