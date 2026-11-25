@@ -43,11 +43,14 @@ Update 6 (r8):
 added a 5th piece-set: chinese (with tiny numbers as help)
 
 Update 7 (r9):
-added a time-per-move slider (for the engine); 
-added function to save player's name in HoF (if eligible); 
-added new start-parameter "import", to allow players to load previous game-logs (human-readable textfiles, containing copied movelists), this now allows to analyze previous ironman-games; 
-updated the help-text (invoked with "dsq_engine -h"); 
+added a time-per-move slider (for the engine)
+added function to save player's name in HoF (if eligible)
+added new start-parameter "import", to allow players to load previous game-logs (human-readable textfiles, containing copied movelists), this now allows to analyze previous ironman-games
+updated the help-text (invoked with "dsq_engine -h")
 added a win64-executable (also fat-LTO built)
 
-[ More info in Discord: https://discord.gg/257jDH3nmn ]
+Update 8 (r10):
+added a new game mode: "Monster Rats". In this mode, rats can capture directly from water to land, even elephants. Watch out :) 
+(accompanying IronMan-mode also added)
 
+[ More info in Discord: https://discord.gg/257jDH3nmn ]
