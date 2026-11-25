@@ -8,7 +8,8 @@ Yep, the rat can defeat the mighty elephant, but not vice versa!  (except if tra
 
 Own pieces in opponent's traps get their strength reduced to *zero*. Only the rat can enter water, blocking jumps of lions & tigers. It can only capture from land-to-land or from water-to-water.
 
-This variant specialty is an energy-system: Attacking yields you energy and repeating a position consumes it. You can't repeat a position if you have no energy.
+This variant specialty is an energy-system: Attacking yields you energy and repeating a position consumes it. You can't repeat a position if you have no energy.[ More info in Discord: https://discord.gg/257jDH3nmn ]
+
 If a player has no legal moves left, they lose the game.
 
 (The [zip-included] file "dsq_engine" is the ready compiled GUI-app with the current engine included, using -O3 optimization and "fat LTO" (link-time optimizer), with symbols stripped to minimize filesize. Tested on Linux Mint 21.3)
@@ -57,5 +58,3 @@ Update 9 (r11)
 improved GUI (fixed piece-sets, menu-buttons, added Help-pages, etc.)
 
 ![testing a new, reduced setup](experimental_DSQ-setup.png)
-
-[ More info in Discord: https://discord.gg/257jDH3nmn ]
