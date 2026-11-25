@@ -53,4 +53,9 @@ Update 8 (r10):
 added a new game mode: "Monster Rats". In this mode, rats can capture directly from water to land, even elephants. Watch out :) 
 (accompanying IronMan-mode also added)
 
+Update 9 (r11)
+improved GUI (fixed piece-sets, menu-buttons, added Help-pages, etc.)
+
+![testing a new, reduced setup](experimental_DSQ-setup.png)
+
 [ More info in Discord: https://discord.gg/257jDH3nmn ]
