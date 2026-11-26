@@ -59,8 +59,8 @@ improved GUI (fixed piece-sets, menu-buttons, added Help-pages, etc.)
 ![testing a new, reduced setup](experimental_DSQ-setup.png)
 
 Update 10 (r12) [2026-11-26]
-added "import"-button
-added button to show/hide eval
-import now can also load games with custom setups (saved with "copy [movelist]" button in the right side)
-added 2 new rungs for the time-slider (0.25s and 0.5s) and 1 new rung ("unlimited") for the depth-slider
+added "import"-button; 
+added button to show/hide eval; 
+import now can also load games with custom setups (saved with "copy [movelist]" button in the right side) ; 
+added 2 new rungs for the time-slider (0.25s and 0.5s) and 1 new rung ("unlimited") for the depth-slider; 
 added a timed match selector for all 3 IronMan modes plus their HoF-tables/files
